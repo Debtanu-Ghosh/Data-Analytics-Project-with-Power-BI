@@ -42,4 +42,6 @@ This study shows how data analytics methods may be applied to solve practical bu
 1. YouTube : https://www.youtube.com/@codebasics
 2. WebSite : https://codebasics.io/resources/resume-project-data-analytics
 
+## Acknowledgment
 
+Thank you, Hemanand Vadivel, for sharing your expertise in data analysis, Power BI, and dashboarding, and thank you, Dhaval Patel, for organizing this insightful session.
