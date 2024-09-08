@@ -7,6 +7,9 @@ We will use a real-world dataset from AtliQ Technologies for this end-to-end dat
 
 The dataset used in this project is sourced from AtliQ Technologies and contains employee attendance information over a three-month period, from April to June, aligning with the company's fiscal year. This real-world dataset will be analyzed to provide key insights into employee presence and attendance patterns during this three months.
 
+- ./DataSet/Attendance Sheet 2022-2023_Masked : Raw data.
+- ./DataSet/final_data : Processed data.
+
 ## Key Questions
 
 1. Analyze work-from-home trends, focusing on Mondays and Fridays, to understand employee preferences and possible reasons for this behavior.
