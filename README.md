@@ -28,3 +28,11 @@ The dataset used in this project is sourced from AtliQ Technologies and contains
 2. Excel
 
 ## Results
+![img0](./images/img0.png)
+![img1](./images/img1.png)
+![img2](./images/img2.png)
+![img3](./images/img3.png)
+
+## Conclusion
+
+This study shows how data analytics methods may be applied to solve practical business issues. Our goal is to obtain important insights that help improve HR strategies and decision-making procedures by examining employee presence data.
