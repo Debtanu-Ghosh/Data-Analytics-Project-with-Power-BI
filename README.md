@@ -1,4 +1,4 @@
-# Data-Analytics-Project-with-Power-BI
+# Data-Analytics-Guided-Project-with-Power-BI
 
 ## Inroduction
 We will use a real-world dataset from AtliQ Technologies for this end-to-end data analytics project, with an emphasis on employee attendance during a three-month period. In order to assist the HR team in understanding employee attendance trends, we will build a Power BI dashboard. This useful, job-worthy project makes use of real data and provides a hands-on introduction to real-world analytics.
@@ -36,3 +36,10 @@ The dataset used in this project is sourced from AtliQ Technologies and contains
 ## Conclusion
 
 This study shows how data analytics methods may be applied to solve practical business issues. Our goal is to obtain important insights that help improve HR strategies and decision-making procedures by examining employee presence data.
+
+## References
+
+1. YouTube : https://www.youtube.com/@codebasics
+2. WebSite : https://codebasics.io/resources/resume-project-data-analytics
+
+
